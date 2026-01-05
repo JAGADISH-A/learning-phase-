@@ -6,9 +6,8 @@ public class backend
         Scanner sc = new Scanner(System.in);
         int roll = sc.nextInt();
         String name = sc.nextLine();
-        String roll = sc.nextInt();
         System.out.println(name);
-        System.out.println(roll);
+       
 
     }
 }
